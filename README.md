@@ -11,7 +11,6 @@
       <div class="col-sm-12 text-center">
         <h1 class="fade-in">専門学校冒険記録</h1>
         <p class="fade-in">川上大心の冒険の記録です。</p>
-        <p>クリックプリーズ！<br>Please right-click !!!</p>
       </div>
     </div>
     <div class="row">
