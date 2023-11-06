@@ -25,7 +25,7 @@
       <div class="col-sm-4">
         <div class="image-container fade-in">
             <h2>プログラムの巻</h2>
-          <img src="タイトルなし.png" alt="代替テキスト" width="440" height="260">
+          <img src="タイトルaなし.png" alt="代替テキスト" width="440" height="260">
           <h5>作品名<br>五分後起こして</h5>
           <p>二年になりたての僕の渾身の一作だ。寝る前にこいつに話したことをそのまま返してくる優れモノだ。<br>これで寝坊が治る。</p>
         </div>
