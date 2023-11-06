@@ -15,14 +15,10 @@
     </div>
     <div class="row">
       <div class="col-sm-4">
-#専門学校冒険記録
-##専門学校に入ってからの冒険の記録。
         <div class="image-container fade-in">
             <h2>3Dcadの巻</h2>
-##3Dcadの巻
           <img src="aaa.png" alt="代替テキスト" width="440" height="260">
           <h5>作品名<br>ラッパ銃</h5>
-###作品名<br>ラッパ銃
           <p>fusion360で作った渾身の一作。</p>
         </div>
       </div>
