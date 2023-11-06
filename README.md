@@ -1,17 +1,21 @@
 # Backend Developer in Japan👋
-### Just 20 years old 
+### Just 19 years old 
 ### Feel free to contact me anytime!👍
 #
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=daithin_name&show_icons=true&theme=vue-dark)
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+
+
 # NOW TRAINING
 
 <p align="left">
-<a href="[daidai1204yade@gmail.com]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
+<a href="https://twitter.com/[daithin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[daithin]" height="30" width="40" /></a>
+<a href="[daidai1204yade@gmail.com]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[daidai1204@gmail.com]"/></a>
 </p>
 
 
