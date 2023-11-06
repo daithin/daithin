@@ -9,8 +9,8 @@
   <div class="container">
     <div class="row">
       <div class="col-sm-12 text-center">
-        <h1 class="fade-in">専門学校冒険記録</h1>
-        <p class="fade-in">専門学校に入ってからの冒険の記録。</p>
+        <h1 class="fade-in">これまでの作品</h1>
+        <p class="fade-in">昨年専門学校に入ってからの制作物の記録です。</p>
       </div>
     </div>
     <div class="row">
