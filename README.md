@@ -3,49 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfolio</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
-  <style>
-    /* アニメーションのCSS */
-    .fade-in {
-      opacity: 0;
-      transition: opacity 1s ease;
-    }
-
-    .fade-in.active {
-      opacity: 1;
-    }
-
-    .image-container {
-      position: relative;
-      margin-bottom: 20px;
-    }
-
-    .image-container img {
-      display: block;
-      max-width: 100%;
-      height: auto;
-    }
-
-    .image-container:nth-child(n+2) {
-      margin-top: 40px; /* 画像同士の間隔を調整するためのマージン */
-    }
-    /* 全体のフォント設定 */
-    body {
-      background-color: rgba(250, 250, 100, 1); /* 背景の色を設定 */
-      color: #000000; /* 文字の色を設定 */
-      font-family: 'HG行書体', sans-serif;
-    }
-    
-    /* 特定の要素に対するフォント設定 */
-    h1 {
-      font-family: 'HG行書体', sans-serif;
-    }
-    
-    p {
-      font-family:'MingLiU' , serif;
-    }
-  </style>
 </head>
 
 <body>
@@ -97,51 +54,7 @@
       </div>
     </div>
   </div>
-<script>
-               const fadeinElems = document.querySelectorAll('.fade-in');
-    let currentIndex = 0;
 
-    function fadein() {
-      fadeinElems[currentIndex].classList.add('active');
-      currentIndex++;
-      if (currentIndex === fadeinElems.length) {
-        // 最後の要素までフェードインしたら、イベントリスナーを削除する
-        document.removeEventListener('click', fadein);
-}
-}
-// ウィンドウが読み込まれたときに一回だけ実行する
-window.addEventListener('load', function () {
-  // 要素に data-delay 属性があれば、その値を遅延時間として使用する
-  fadeinElems.forEach((elem, index) => {
-    const delay = elem.dataset.delay || 0;
-    elem.style.transitionDelay = delay + "ms";
-  });
-});
-
-document.addEventListener('click', fadein);
-              // スクロールに応じて背景色を変化させる
-              window.addEventListener('scroll', function() {
-                const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-                const body = document.querySelector('body');
-                
-                // 背景色の変化に使用するパラメータ
-                const startScroll = 0;
-                const endScroll = 500;
-                const startColor = [250, 250, 100];
-                const endColor = [250, 100, 100];
-          
-                // スクロール位置に応じて背景色を計算する
-                const ratio = (scrollTop - startScroll) / (endScroll - startScroll);
-                const currentColor = endColor.map((value, index) => {
-                  const startValue = startColor[index];
-                  return Math.round(startValue + (value - startValue) * ratio);
-                });
-                
-                // 背景色を設定する
-                body.style.backgroundColor = `rgb(${currentColor[0]}, ${currentColor[1]}, ${currentColor[2]})`;
-              });
-  </script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
           
   </body>
   </html>
