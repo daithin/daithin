@@ -12,11 +12,11 @@
 
 ## 💻 使用技術
 こちらが私のスキルセットです：
-![スキルセット](https://example.com/your-chart-url.png)
+![スキルセット](https://example.com/your-chart-url.pngパワポでつくろかな)
 
 ## 📊 性格特性とリーダーシップ
 私の性格特性とリーダーシップ能力を示すレーダーチャートです：
-![性格特性とリーダーシップ](https://example.com/your-characteristics-chart-url.png)
+![性格特性とリーダーシップ](https://example.com/your-characteristics-chart-url.pngパワポでつくろかな)
 
 ## 📚 マイプロジェクト
 以下は私が関わったプロジェクトの一部です。詳細はGitHubでご覧いただけます！
