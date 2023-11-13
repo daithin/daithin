@@ -1,47 +1,39 @@
+# こんにちは、私は川上大心 👋
 
-<html lang="ja">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+![AIとプログラミング](https://example.com/your-image-url.png)
 
-<body>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12 text-center">
-        <h1 class="fade-in">これまでの作品</h1>
-        <p class="fade-in">昨年専門学校に入ってからの制作物の記録です。</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-4">
-        <div class="image-container fade-in">
-            <h2>3Dcadの巻</h2>
-          <img src="aaa.png" alt="代替テキスト" width="440" height="260">
-          <p>ラッパ銃でございます。持ち手と装弾部分にこだわりました。<br>fusion360で作った渾身の一作。</p>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="image-container fade-in">
-            <h2>プログラムの巻</h2>
-          <img src="タイトルaなし.png" alt="代替テキスト" width="440" height="260">
-          <p>賢いアラーム開発でございます。音声認識、出力、の機能があり、話した言葉をそのまま指定時間に返してくるアラーム。<br>忘れそうなことの一時的なメモにも使えます。</p>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="image-container fade-in">
-          <h2>電子回路の巻</h2>
-          <img src="20230112_133446.jpg" alt="代替テキスト" width="440" height="260">
-          <p>超音波距離センサを用いてLEDを制御していて近づくと光ります。光る距離も制御可能です。<br>この扱いを活かして現在、視覚障がい者支援デバイスの開発に取り組んでいます。</p>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-6">
-        <div class="image-container fade-in">
-          <h2>川上大心のステータス</h2>
-          <h4>ビジネス情報部門～情報処理検定2級<br>全商簿記2級<br>珠算・電卓実務検定試験１級<br>その他三級いくつか<br>運動部、部長経験有り<br>老舗焼肉屋で約五年アルバイト、アルバイトリーダー経験有り</h4>
-        </div>
-      </div>
-    </div>
-  </div>
+## 🚀 私について
+大阪ハイテクノロジー専門学校で人工知能を学ぶ熱心な学生です。プログラミング、AI、新技術への興味が深く、様々なコンテストやハッカソンに参加しています。
+
+## 🌐 ソーシャルリンク
+- [LinkedIn](あなたのLinkedIn URL)
+- [GitHub](あなたのGitHub URL)
+- [Twitter](あなたのTwitter URL)
+
+## 💻 使用技術
+こちらが私のスキルセットです：
+![スキルセット](https://example.com/your-chart-url.png)
+
+## 📊 性格特性とリーダーシップ
+私の性格特性とリーダーシップ能力を示すレーダーチャートです：
+![性格特性とリーダーシップ](https://example.com/your-characteristics-chart-url.png)
+
+## 📚 マイプロジェクト
+以下は私が関わったプロジェクトの一部です。詳細はGitHubでご覧いただけます！
+
+- **俳句AI:** OpenCVとGPT-4を使用して自動俳句生成システムを開発。
+- **自己紹介AI:** OpenAIのGPTsを活用し、イベントで自己紹介を行うAIを開発。
+- **顔認識ぬいぐるみ:** テックシーカーハッカソンでのプロジェクト。
+- **その他プロジェクト:** [GitHubリポジトリ](あなたのGitHubリポジトリURL)
+
+## 🏆 実績
+- 学内プログラミングコンテスト一位
+- テックシーカーハッカソンでの顔認識ぬいぐるみ開発プロジェクト参加
+
+## 🎉 趣味
+- 焼肉の焼き加減に自信あり。最高の焼き加減で肉を楽しむのが好きです。
+- 「エッセンシャル思考」を愛読。人生と仕事の両方において、効果的な焦点化の重要性を理解しています。
+
+## 📫 連絡方法
+新しいプロジェクトやチームワークに関する提案、またはただのフレンドリーなチャットのために、お気軽にご連絡ください！
+- 📧 メール: [your-email@example.com]
