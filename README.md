@@ -5,9 +5,9 @@
 大阪ハイテクノロジー専門学校で人工知能を学ぶ熱心な学生です。プログラミング、AI、新技術への興味が深く、様々なコンテストやハッカソンに参加しています。
 
 ## 🌐 ソーシャルリンク
-- [LinkedIn](あなたのLinkedIn URL)
-- [GitHub](あなたのGitHub URL)
-- [Twitter](あなたのTwitter URL)
+- [zenn](https://zenn.dev/daishin)
+- [instagram](https://www.instagram.com/dai.9730/)
+- [Twitter](@paiapaipai)
 
 ## 💻 使用技術
 こちらが私のスキルセットです：
@@ -20,8 +20,8 @@
 ## 📚 マイプロジェクト
 以下は私が関わったプロジェクトの一部です。詳細はGitHubでご覧いただけます！
 
-- **俳句AI:** OpenCVとGPT-4を使用して自動俳句生成システムを開発。[zenn](https://zenn.dev/daishin/articles/c43d96cca6a411)
-- **自己紹介AI:** OpenAIのGPTsを活用し、イベントで自己紹介を行うAIを開発。[GPTs](https://chat.openai.com/g/g-bc98wMdul-chuan-shang-da-xin-ben-ren)
+- **俳句AI:** OpenCVとGPT-4を使用して自動俳句生成システムを開発。[動作とコード](https://zenn.dev/daishin/articles/c43d96cca6a411)
+- **自己紹介AI:** OpenAIのGPTsを活用し、イベントで自己紹介を行うAIを開発。[自己紹介GPTs](https://chat.openai.com/g/g-bc98wMdul-chuan-shang-da-xin-ben-ren)
 - **顔認識ぬいぐるみ:** テックシーカーハッカソンでのプロジェクト。
 <!-- **その他プロジェクト:** [GitHubリポジトリ](あなたのGitHubリポジトリURL)-->
 
