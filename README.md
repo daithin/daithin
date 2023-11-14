@@ -36,4 +36,4 @@
 ## 📫 連絡方法
 新しいプロジェクトやチームワークに関する提案、またはただのフレンドリーなチャットのために、お気軽にご連絡ください！
 - 📧 メール: [daidai1204yadel@gmail.com]
-<img src="https://media.discordapp.net/attachments/1147737795734011949/1173792299625480273/Clipchamp.gif?ex=65653e44&is=6552c944&hm=d5a9114cecc0d0a5c9882cce08b8fd3d5921a063a93ec966d7c07d954c61a7cd&=&width=532&height=300" width="1500" height="200">
+<img src="https://media.discordapp.net/attachments/1147737795734011949/1173792299625480273/Clipchamp.gif?ex=65653e44&is=6552c944&hm=d5a9114cecc0d0a5c9882cce08b8fd3d5921a063a93ec966d7c07d954c61a7cd&=&width=532&height=300" width="1500" height="100">
