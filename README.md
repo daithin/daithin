@@ -1,6 +1,10 @@
 # こんにちは、私は川上大心 👋
 
 ![帯状のイメージ図AIとプログラミング](obi.png)
+<video width="320" height="240" controls>
+  <source src="Gen-2 1797399610, An animation of a gr, M 5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🚀 私について
 大阪ハイテクノロジー専門学校で人工知能を学ぶ熱心な学生です。プログラミング、AI、新技術への興味が深く、様々なコンテストやハッカソンに参加しています。
