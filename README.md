@@ -10,8 +10,8 @@
 - [Twitter](@paiapaipai)
 
 ## 💻 使用技術
-こちらが私のスキルセットです：
-<!--![スキルセット](https://example.com/your-chart-url.pngパワポでつくろかな)-->
+<!--!こちらが私のスキルセットです：
+[スキルセット](https://example.com/your-chart-url.pngパワポでつくろかな)-->
 
 <img src="https://skillicons.dev/icons?i=python,html,c,css,js,firebase,vue,mysql,github,vscode,php,aws" /> <br /><br />
 
