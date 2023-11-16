@@ -13,7 +13,7 @@
 こちらが私のスキルセットです：
 <!--![スキルセット](https://example.com/your-chart-url.pngパワポでつくろかな)-->
 
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,react,vue,sqlite,mysql,github,vscode,laravel,php,gutlab,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,,python,c++,css,js,firebase,vue,mysql,github,vscode,php,aws" /> <br /><br />
 
 
 
