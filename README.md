@@ -12,6 +12,7 @@
 ## 💻 使用技術
 こちらが私のスキルセットです：
 ![スキルセット](https://example.com/your-chart-url.pngパワポでつくろかな)
+<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
 
 
 ## 📚 マイプロジェクト
