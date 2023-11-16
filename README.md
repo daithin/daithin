@@ -11,11 +11,10 @@
 
 ## 💻 使用技術
 こちらが私のスキルセットです：
-![スキルセット](https://example.com/your-chart-url.pngパワポでつくろかな)
+<!--![スキルセット](https://example.com/your-chart-url.pngパワポでつくろかな)-->
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,react,vue,sqlite,mysql,github,vscode,laravel,php,gutlab,jquery,aws,vite" /> <br /><br />
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
 
 
 ## 📚 マイプロジェクト
