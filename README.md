@@ -24,6 +24,7 @@
 - **俳句AI:** OpenCVとGPT-4を使用して自動俳句生成システムを開発。[動作とコード](https://zenn.dev/daishin/articles/c43d96cca6a411)
 - **自己紹介AI:** OpenAIのGPTsを活用し、イベントで自己紹介を行うAIを開発。[自己紹介GPTs](https://chat.openai.com/g/g-bc98wMdul-chuan-shang-da-xin-ben-ren)
 - **顔認識ぬいぐるみ:** テックシーカーハッカソンでのプロジェクト。(zennに記載予定）
+ <img src="https://media.discordapp.net/attachments/1147737795734011949/1176172092258000997/ADCreHdsZQm-LPN-KNxh-uY5tIeTLD1HQqgcr_tVqjQSYiOKXBPouL46fSwpd7QjsL_OFXbz8SCh0yA_pZxM7UA5Vl64bYZRxQw734-h550-s-no.png?ex=656de69f&is=655b719f&hm=512ac1b6d5bf9d4fc4ca925a2576749a3c17949f6190cf0722cfa28a60f2d3d4&=&width=611&height=458" >
   
   他のプロジェクトについてもリポジトリでご覧いただけます。
 <!-- **その他プロジェクト:** [GitHubリポジトリ](あなたのGitHubリポジトリURL)-->
