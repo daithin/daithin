@@ -21,6 +21,7 @@
 ## 📚 マイプロジェクト
 以下は私が関わったプロジェクトの一部です。詳細はリンクからご覧いただけます！
 
+- **音声翻訳掲示板:** インターン先での実体験から言語の壁を乗り越えるために開発。[動作とコード](https://zenn.dev/daishin/articles/96e6765252b5a4)
 - **俳句AI:** OpenCVとGPT-4を使用して自動俳句生成システムを開発。[動作とコード](https://zenn.dev/daishin/articles/c43d96cca6a411)
 - **自己紹介AI:** OpenAIのGPTsを活用し、イベントで自己紹介を行うAIを開発。[自己紹介GPTs](https://chat.openai.com/g/g-bc98wMdul-chuan-shang-da-xin-ben-ren)
 - **顔認識ぬいぐるみ:** テックシーカーハッカソンでのプロジェクト。(zennに記載予定）
