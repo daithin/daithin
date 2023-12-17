@@ -29,9 +29,9 @@ python、AIを主に使って開発に取り組んでおります。<br>
   他のプロジェクトについてもリポジトリでご覧いただけます。
 <!-- **その他プロジェクト:** [GitHubリポジトリ](あなたのGitHubリポジトリURL)-->
 ## 🤖マイGPTs
-- **川上大心本人:** イベントや、ブログ等で自己紹介を行う。[自己紹介GPTs](https://chat.openai.com/g/g-bc98wMdul-chuan-shang-da-xin-ben-ren)
-- **ピクトグラムくん:** 入力からピクトグラム生成する。資料作りに使用。[自己紹介GPTs](https://chat.openai.com/g/g-FMZz7z5yx-pikutoguramukun)
-- **AI論文解説:** 落合さんの論文の読み方を参考に、論文解説をしてくれるAI。[自己紹介GPTs](https://chat.openai.com/g/g-gWqJZ6PzE-ailun-wen-jie-shuo)
+- **川上大心本人:** イベントや、ブログ等で自己紹介を行う。[GPTs](https://chat.openai.com/g/g-bc98wMdul-chuan-shang-da-xin-ben-ren)
+- **ピクトグラムくん:** 入力からピクトグラム生成する。資料作りに使用。[GPTs](https://chat.openai.com/g/g-FMZz7z5yx-pikutoguramukun)
+- **AI論文解説:** 落合さんの論文の読み方を参考に、論文解説をしてくれるAI。[GPTs](https://chat.openai.com/g/g-gWqJZ6PzE-ailun-wen-jie-shuo)
 
 ## 🏆 実績
 - 学内プログラミングコンテスト一位
