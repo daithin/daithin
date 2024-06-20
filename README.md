@@ -7,7 +7,6 @@ python、AIを主に使って開発に取り組んでおります。<br>
 
 ## 🌐 ソーシャルリンク
 - [zenn](https://zenn.dev/daishin)
-- [instagram](https://www.instagram.com/dai.9730/)
 - [Twitter](@paiapaipai)
 
 ## 💻 使用技術
